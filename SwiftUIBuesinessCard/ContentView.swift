@@ -30,6 +30,7 @@ struct ContentView: View {
                 InfoView(text: "He holds most Grand Slam singles Championships", imageName: "crown.fill")
                 InfoView(text: "Has won a record 33 ATP World Tour Awards including ATP No. 1", imageName: "crown.fill")
                 InfoView(text: "Has spent record of 302 weeks at No. 1", imageName: "crown.fill")
+                InfoView(text: "Added Experimental text", imageName: "crown.fill")
             }
         }
 
